@@ -1,0 +1,46 @@
+[
+  {
+    "number": "А001АА28",
+    "full_name": "Поляков Иван Сергеевич",
+    "address": "г.Воронеж, ул. Фридриха энгельса",
+    "make": "LEXUS CT200H",
+    "date_of_issue": 2011,
+    "engine_capacity": 99,
+    "engine_number": "XTA210930Y2696785",
+    "color": "Чёрный",
+    "vehicle_type": "хэтчбек",
+    "organization": {
+      "name": "Воронеж",
+      "city": "Воронеж",
+      "area": "Центральный",
+      "address": "ул. Проспект революции д.20",
+      "supervisor": "Поляков Сергей Иванович"
+    }
+  },
+  {
+    "number": "Н717СК68",
+    "full_name": "Поляков Сергей Александрович",
+    "address": "Тамбовская обл., с. Петровское д.11",
+    "make": "Hyendai Crete",
+    "date_of_issue": 2022,
+    "engine_capacity": 105,
+    "engine_number": "XTA210930Y2696785",
+    "color": "Серый",
+    "vehicle_type": "Внедорожник",
+    "organization": null
+  },
+  {
+    "data": "26.06.2001",
+    "type_of_incident": "Столкновене",
+    "place": "г.Воронеж, ул.Фридрих Энгельса д.50",
+    "brands_of_affected_cars": "Mercedes, BMV, Audi",
+    "number": "Н717СК68",
+    "machine_type": "Hyendai Crete",
+    "summary": "Произоишло столкновение, которое повело за собо столкновение других машин",
+    "number_of_victims": "0",
+    "amount_of_damage": 300,
+    "cause": "Гололёд",
+    "road_conditions": "Хорошее"
+  }
+]
+
